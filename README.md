@@ -28,7 +28,7 @@
 
 ### 💡 Highlights
 - 🔹 Strong foundation in **Data Structures & Algorithms**  
-- 🔹 Built projects like a **Ai Saas Application**, **AI Based Job Role and Course Recommendation Platform**, and **Bank Management System**  
+- 🔹 Built projects like a **Ai Saas Application**, **AI Based Job Role and Course Recommendation Platform**, and **Bank Management System.**  
 
 ---
 
