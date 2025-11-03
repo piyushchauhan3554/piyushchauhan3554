@@ -65,7 +65,7 @@
 ### 📫 Connect With Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/piyush-chauhan-972108259/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/piyushchauhan1828/" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/piyushchauhan1828/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 ---
