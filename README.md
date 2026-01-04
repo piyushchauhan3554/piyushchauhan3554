@@ -31,19 +31,22 @@
 - 🔹 Built projects like a **Ai Saas Application**, **AI Based Job Role and Course Recommendation Platform**, and **Bank Management System.**  
 
 ---
+
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight&cache_seconds=30" alt="Piyush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight&cache_seconds=60" alt="Piyush's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchauhan3554&theme=tokyonight&cache_seconds=30" alt="Piyush's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=piyushchauhan3554&theme=tokyonight&cache_seconds=60" alt="Piyush's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight&cache_seconds=30" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight&cache_seconds=60" alt="Top Languages" />
 </p>
+
 ---
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
