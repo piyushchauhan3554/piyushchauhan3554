@@ -30,19 +30,24 @@
 - 🔹 Strong foundation in **Data Structures & Algorithms**  
 - 🔹 Built projects like a **Ai Saas Application**, **AI Based Job Role and Course Recommendation Platform**, and **Bank Management System.**  
 
+
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight&cache_seconds=60" alt="Piyush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight&cache_seconds=120&v=2" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=piyushchauhan3554&theme=tokyonight&cache_seconds=60" alt="Piyush's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=piyushchauhan3554&theme=tokyonight&cache_seconds=120&v=2" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight&cache_seconds=60" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight&cache_seconds=120&v=2" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushchauhan3554&theme=tokyonight&v=2" alt="Profile Summary" />
 </p>
 
 ---
