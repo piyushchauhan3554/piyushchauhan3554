@@ -1,50 +1,157 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Piyush Chauhan</h1>
-<h3 align="center">💻 Final-Year Computer Science Engineering Student | Full Stack Developer | AI & ML Enthusiast</h3>
+<!-- =========================
+     PROFILE HEADER
+========================= -->
 
----
+<h1 align="center">Hey 👋, I'm Piyush Chauhan</h1>
 
-### 👨‍💻 About Me
-🎓 Final-year **CSE student** passionate about **problem-solving**, **web development**, and **AI-driven applications**.  
-🚀 Skilled in building scalable and creative projects that combine frontend design with powerful backend logic.  
-💡 Exploring **AI/ML**, and **Backend Development** to expand my technical horizon.  
-🌱 Currently improving my **DSA skills** and contributing to open-source & hackathon projects.  
+<h3 align="center">
+🚀 Full Stack Web Developer | Backend Developer | AI & ML Enthusiast
+</h3>
 
----
-
-### 🛠️ Tech Stack
-
-#### 🚀 Languages & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,c" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,bootstrap,tailwind" />
-</p>
-
----
-
-### 💡 Highlights
-- 🔹 Strong foundation in **Data Structures & Algorithms**  
-- 🔹 Built projects like a **Ai Saas Application**, **AI Based Job Role and Course Recommendation Platform**, and **Bank Management System.**  
-
-
----
-
-### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushchauhan3554&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Developer+%7C+Node.js+%26+MongoDB;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+and+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/piyushchauhan3554">
+    <img src="https://komarev.com/ghpvc/?username=piyushchauhan3554&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  </a>
 
-### 📫 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/piyush-chauhan-972108259/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/piyushchauhan1828/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://github.com/piyushchauhan3554?tab=followers">
+    <img src="https://img.shields.io/github/followers/piyushchauhan3554?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+  </a>
 </p>
 
 ---
 
-⭐ *“Code. Create. Innovate.”*
+# 💫 About Me
+
+💻 Passionate **Full Stack Developer** focused on building scalable, secure, and modern web applications.  
+
+🚀 Skilled in developing complete applications using **React.js, Node.js, Express.js, MongoDB, and REST APIs**.  
+
+🧠 Interested in **Backend Development, AI/ML, System Design, and Problem Solving**.  
+
+🌱 Currently improving my:
+- Data Structures & Algorithms
+- Backend Architecture
+- API Development
+- Real-World Project Building
+
+⚡ Love transforming ideas into impactful digital products.
+
+---
+
+# 🚀 Tech Stack
+
+## 👨‍💻 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp" />
+</p>
+
+## ⚙️ Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+</p>
+
+## 🛠️ Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## 🔧 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 StaySphere - Accommodation Booking Platform
+🔹 Full-stack accommodation booking platform built using **Node.js, Express.js, MongoDB, and EJS**.  
+🔹 Implemented authentication, authorization, RESTful routing, and secure session management.  
+🔹 Followed MVC architecture for scalable and maintainable code structure.
+
+---
+
+## 🤖 AI-Based Job & Course Recommendation Platform
+🔹 Recommends career roles and learning paths based on user skills and interests.  
+🔹 Built with modern frontend and backend technologies along with intelligent recommendation logic.  
+🔹 Focused on helping students choose suitable career opportunities.
+
+---
+
+## 🧠 AI SaaS Application
+🔹 Developed AI-powered SaaS features with clean UI and backend integration.  
+🔹 Worked on API handling, authentication, and responsive frontend design.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyushchauhan3554&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchauhan3554&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushchauhan3554&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushchauhan3554&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 Achievements & Focus
+
+✨ Full Stack Development  
+✨ Backend Engineering  
+✨ REST API Development  
+✨ DSA & Problem Solving  
+✨ Hackathon Projects  
+✨ AI & ML Exploration  
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/piyush-chauhan-972108259/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/piyushchauhan1828/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+# 💭 Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">
+⭐ "Code. Build. Innovate. Repeat." ⭐
+</h3>
