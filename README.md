@@ -5,22 +5,13 @@
 <h1 align="center">Hey 👋, I'm Piyush Chauhan</h1>
 
 <h3 align="center">
-🚀 Full Stack Web Developer | Backend Developer | AI & ML Enthusiast
+🚀 Full Stack Web Developer | MERN Stack | Competitive Programmer
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Backend+Developer+%7C+Node.js+%26+MongoDB;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+and+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/piyushchauhan3554">
-    <img src="https://komarev.com/ghpvc/?username=piyushchauhan3554&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-  </a>
-
-  <a href="https://github.com/piyushchauhan3554?tab=followers">
-    <img src="https://img.shields.io/github/followers/piyushchauhan3554?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
-  </a>
-</p>
 
 ---
 
@@ -61,17 +52,17 @@
 
 ## 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,cloudinary,aws" />
 </p>
 
 ## 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel,render" />
 </p>
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 Some of my Projects
 
 ## 🚀 StaySphere - Accommodation Booking Platform
 🔹 Full-stack accommodation booking platform built using **Node.js, Express.js, MongoDB, and EJS**.  
@@ -137,17 +128,9 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:piyushchauhan8279@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
-
----
-
-# 💭 Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
