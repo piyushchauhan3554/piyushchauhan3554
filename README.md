@@ -52,12 +52,12 @@
 
 ## 🗄️ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,cloudinary,aws" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,aws" />
 </p>
 
 ## 🔧 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel" />
 </p>
 
 ---
